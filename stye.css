@@ -1,0 +1,29 @@
+div .aula{
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dotted double groove ridge;
+    border-width: 50px;
+    width: 200px;
+    padding: 20%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+div .aula1{
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid dashed groove double;
+    border-width: 25px;
+    width: 100px;
+    padding: 10%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+div .aula2{
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid dashed groove double;
+    border-width: 25px;
+    width: 100px;
+    padding: 10%;
+    margin: auto;
+    margin-bottom: 25px;
+}
